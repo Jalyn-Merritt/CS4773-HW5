@@ -1,6 +1,6 @@
 # CS4773-HW5
 
-This assignment is a program which implements an elevator's functionality.
+This assignment is a program which simulates an elevator's functionality.
 
 # Overview
 
@@ -15,6 +15,10 @@ The elevator starts on floor 1 at program initialization. Messages are output to
 The state design pattern is utilized for this assignment. A UML state diagram and class diagram will be viewable below. The state design pattern's general functionalities can be observed at this website: https://refactoring.guru/design-patterns/state
 
 # Diagrams
+
+![alt text](https://github.com/Jalyn-Merritt/CS4773-HW5/blob/main/assignment5UMLstate.jpg?raw=true)
+
+![alt text](https://github.com/Jalyn-Merritt/CS4773-HW5/blob/main/assignment5UMLclass.jpg?raw=true)
 
 # Input
 
