@@ -32,4 +32,4 @@ This program will read input from an input file whose name is passed in at the c
 
 # Misc.
 
-This program is a Maven project, the zip file within the repository will contain the pom.xml file, UML diagrams, and source code for the program.
+This program is a Maven project, the zip file 'hw5.zip' within the repository will contain the pom.xml file, UML diagrams, and source code for the program.
