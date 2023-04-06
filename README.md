@@ -22,14 +22,15 @@ The state design pattern is utilized for this assignment. A UML state diagram an
 
 # Input
 
-This program will read input from an input file whose name is passed in at the command line. The file is to contain a series of integers from 1 to 3 to correspond to button presses. Any other integer will yield no result.
+This program will read input from an input file whose name is passed in at the command line. The file should contain a series of integers from 1 to 3 to correspond to possible floor button presses. Any other integer will yield no result.
 
 # Example Input
 
+SomeInput.txt
 ```shell
 1 2 3 3 1 2
 ```
 
 # Misc.
 
-This program is a Maven project, the zip file 'hw5.zip' within the repository will contain the pom.xml file, UML diagrams, and source code for the program.
+This program is a Maven Java project, the zip file 'hw5.zip' within the repository will contain the pom.xml file, UML diagrams, and source code for the program.
